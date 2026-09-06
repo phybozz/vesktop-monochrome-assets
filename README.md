@@ -1,6 +1,6 @@
 # vesktop-monochrome-assets
 > [!NOTE]
-> All assets for Vesktop origin from the [Vesktop Repository](https://github.com/Vencord/Vesktop/tree/main).
+> All assets for Vesktop originate from the [Vesktop repository](https://github.com/Vencord/Vesktop/tree/main).
 <p>If they look pixelated: no worries, they wont look like that in Vesktop itself! :)</p>
 
 ## tray
