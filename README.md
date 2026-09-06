@@ -3,11 +3,13 @@
 > All assets for Vesktop originate from the [Vesktop repository](https://github.com/Vencord/Vesktop/tree/main).
 <p>If they look pixelated: no worries, they wont look like that in Vesktop itself! :)</p>
 
-## tray
-![Image of the tray icon](tray.png)
 
-## trayUnread
-![Image of the tray icon if you have unread messages](trayUnread.png)
+><img src="assets/tray.png" alt="Image of the tray icon" width=96>⮕ tray<br>
 
-## splash
-![Image of the splash animation](splash.webp)
+><img src="assets/trayUnread.png" alt="Image of the tray icon if you have unread message" width=96>⮕ trayUnread<br>
+
+><img src="assets/splash.webp" alt="Image of the splash animation" width=96>⮕ splash<br>
+
+<br>
+
+🯄 <ins>**[Click here for a guide on how to install the assets.](guide.md)**</ins> 🯄
