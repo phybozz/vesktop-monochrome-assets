@@ -4,7 +4,7 @@
 
 If they look pixelated: no worries, they wont look like that in Vesktop itself! :)  
 ⮟ Install Script ⮟  
-`curl -f https://raw.githubusercontent.com/phybozz/vesktop-monochrome-assets/refs/heads/main/install.sh | bash`
+`curl -fsS https://raw.githubusercontent.com/phybozz/vesktop-monochrome-assets/refs/heads/main/install.sh | bash`
 
 ><img src="assets/tray.png" alt="Image of the tray icon" width=96>⮕ tray<br>
 
