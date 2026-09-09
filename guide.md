@@ -2,7 +2,7 @@
 
 # METHOD 1 | AUTOMATIC 
 1. Open a terminal (e.g. Konsole).
-2. Copy `curl -f https://raw.githubusercontent.com/phybozz/vesktop-monochrome-assets/refs/heads/main/install.sh | bash`
+2. Copy `curl -fsS https://raw.githubusercontent.com/phybozz/vesktop-monochrome-assets/refs/heads/main/install.sh | bash`
 3. Paste (Ctrl+Shift+V) it into your terminal and press Enter.
 4. Well done! ;D
 # METHOD 2 | MANUAL
