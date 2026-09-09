@@ -1,8 +1,10 @@
 # vesktop-monochrome-assets
 > [!NOTE]
 > All assets for Vesktop originate from the [Vesktop repository](https://github.com/Vencord/Vesktop/tree/main).
-<p>If they look pixelated: no worries, they wont look like that in Vesktop itself! :)</p>
 
+If they look pixelated: no worries, they wont look like that in Vesktop itself! :)  
+⮟ Install Script ⮟  
+`curl -f https://raw.githubusercontent.com/phybozz/vesktop-monochrome-assets/refs/heads/main/install.sh | bash`
 
 ><img src="assets/tray.png" alt="Image of the tray icon" width=96>⮕ tray<br>
 
