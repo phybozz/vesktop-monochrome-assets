@@ -11,4 +11,4 @@ If they look pixelated: no worries, they wont look like that in Vesktop itself! 
 
 ><img src="assets/splash.webp" alt="splash animation preview" width=96>⮕ splash
 
-🯄 <ins>**[Click here for a guide on how to install the assets.](guide)**</ins> 🯄
+🯄 <ins>**[Click here for a guide on how to install the assets.](guide.md)**</ins> 🯄
